@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">utuapp</string>
+    <string name="enrollment_no">Enrollment No.</string>
+    <string name="todo">TODO</string>
+</resources>
